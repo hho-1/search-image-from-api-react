@@ -5,14 +5,15 @@
 - Getting data from unsplash and printing it to the screen
 - Reaching parent from a child element in ReactJS
 
-### Followimg topics have been covered:
-- ReactJS useState
+### Following topics have been covered:
+- ReactJS useState 
 - Axios
 - Async, await
 - map function for reading many elements of an array
 - React Forms
 - CSS
 - HTML
+- JS
 
 ### Project Result is accessible at https://dulcet-eclair-4b5d27.netlify.app
 
