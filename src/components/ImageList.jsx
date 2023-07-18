@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageItem from '../../src/components/imageItem'
+import ImageItem from './imageItem'
 
 const ImageList = ({imagesPlaceholder}) => {
   return (

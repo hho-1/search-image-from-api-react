@@ -3,7 +3,7 @@ import './App.css'
 import Header from './header/Header'
 import searchImages from './api'
 import { useState } from 'react'
-import ImageList from '../src/components/imageList'
+import ImageList from './components/imageList'
 
 function App() {
   
